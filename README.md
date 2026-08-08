@@ -5,7 +5,11 @@
 
 
 # 💫 About Me:
-Hey there! I'm Saba.<br><br>- 🔐 Cybersecurity geek who thinks like an artist<br>- 🐍 Python coder with a passion for creativity<br>- 🤖 Exploring AI to build things that feel alive<br>- ✍️ Writer at heart – stories, ideas, and code<br>- 🎨 Art lover – pixels, colors, and visual storytelling<br>- 🌱 I believe the best tech is born from imagination<br><br>"Code is my canvas, and creativity is my brush."
+Hey there! I'm Saba.<br><br>-🔐 Cybersecurity enthusiast  
+🐍 Currently learning Python and backend development  
+🤖 Exploring AI and basic machine learning  
+✍️ I write about what I learn  
+🌱 On a journey to become better every day"Code is my canvas, and creativity is my brush."
 
 
 # 💻 Tech Stack:
