@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-Hey there! I'm Saba.<br><br>-🔐 Cybersecurity enthusiast  
+Hey there! I'm Saba.<br><br>🔐 Cybersecurity enthusiast  
 🐍 Currently learning Python and backend development  
 🤖 Exploring AI and basic machine learning  
 ✍️ I write about what I learn  
