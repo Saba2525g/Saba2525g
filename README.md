@@ -9,7 +9,9 @@ Hey there! I'm Saba.<br><br>-🔐 Cybersecurity enthusiast
 🐍 Currently learning Python and backend development  
 🤖 Exploring AI and basic machine learning  
 ✍️ I write about what I learn  
-🌱 On a journey to become better every day"Code is my canvas, and creativity is my brush."
+🌱 On a journey to become better every day
+
+"Code is my canvas, and creativity is my brush."
 
 
 # 💻 Tech Stack:
